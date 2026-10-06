@@ -1,0 +1,6 @@
+{
+  "name": "KRONOS Atelier | Handcrafted Bespoke Sofas & Manufacturer",
+  "description": "Architectural luxury sofas and seating handcrafted to order. European hardwood frames, 8-way hand-tied springs, Italian full-grain leathers, and custom configurator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
